@@ -25,6 +25,10 @@ Collection of high quality hackathon resources.
 - [The Most Important Part of Your Hackathon? Your Sponsors.](http://tessrinearson.com/blog/?p=661)
 - [What is it like to organize HackMIT?](https://medium.com/@kt_seagull/what-is-it-like-to-organize-hackmit-96467ee9a9b8)
 - [How to Run a Hackathon](http://www.recursiverobot.com/post/91272128309/how-to-run-a-hackathon)
+- [Hosting Hackathons: Getting Awesome Sponsors](http://alexeymk.com/hosting-hackathons/)
+
+## Sponsoring a Hackathon
+- [Hackathon Playbook Part 1: How to Sponsor](https://www.lob.com/blog/hackathon-playbook-part1)
 
 ## The Hacker Experience
 
