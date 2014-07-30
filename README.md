@@ -12,8 +12,7 @@ Collection of all Hackathon Resources.
 - [The rise of the High School Hacker](https://medium.com/hs-hackers/the-rise-of-the-high-school-hacker-81a5d7da7f51)
 - [The Rise of the High School Hackathon](https://medium.com/@canzhiye/the-rise-of-the-high-school-hackathon-a05e08ed4ebc)
 - [PennApps X Application Stats](https://medium.com/pennapps-x/pennapps-x-application-stats-655f9a04f991)
-
-
+- [Everyone’s watching hackTECH](https://medium.com/hacktech-2014/everyones-watching-hacktech-5b58c3859747)
 
 ## Planning a Hackathon
 
@@ -21,3 +20,4 @@ Collection of all Hackathon Resources.
 - [How to throw an Epic Hackathon](http://blog.mlh.io/how-to-throw-an-epic-hackathon-07-07-2014/)
 - [How to run a hackathon](http://www.recursiverobot.com/post/91272128309/how-to-run-a-hackathon)
 - [Hackathon Fundraising: Getting Started](http://blog.mlh.io/hackathon-fundraising-getting-started-06-16-2014/)
+- [The HackCon Experience](https://medium.com/@taylor_atx/the-hackcon-experience-3866a1bfc907)
