@@ -1,7 +1,9 @@
 Hackathon-Resources
 ===================
 
-Collection of all Hackathon Resources.
+Collection of all Hackathon Resources. #sogoodresource
+
+
 
 ## Hackathon Awareness
 
