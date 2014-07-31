@@ -22,10 +22,14 @@ Collection of high quality hackathon resources.
 - [How to run a hackathon](http://www.recursiverobot.com/post/91272128309/how-to-run-a-hackathon)
 - [Hackathon Fundraising: Getting Started](http://blog.mlh.io/hackathon-fundraising-getting-started-06-16-2014/)
 - [The HackCon Experience](https://medium.com/@taylor_atx/the-hackcon-experience-3866a1bfc907)
-- [The Most Important Part of Your Hackathon? Your Sponsors.](http://tessrinearson.com/blog/?p=661)
+- [The Most Important Part of Your Hackathon? Your Sponsors.](https://medium.com/hackers-and-hacking/your-sponsors-are-the-most-important-part-of-your-hackathon-42f21e0b581a)
 - [What is it like to organize HackMIT?](https://medium.com/@kt_seagull/what-is-it-like-to-organize-hackmit-96467ee9a9b8)
 - [How to Run a Hackathon](http://www.recursiverobot.com/post/91272128309/how-to-run-a-hackathon)
 - [Hosting Hackathons: Getting Awesome Sponsors](http://alexeymk.com/hosting-hackathons/)
+- [Running an Inclusive Hackathon](https://medium.com/hackers-and-hacking/running-an-inclusive-hackathon-630f3f2e5e71)
+- [Why hackathons should conclude with a demo](https://medium.com/how-to-throw-a-hackathon/why-hackathons-should-conclude-with-an-expo-635563ceab2f) 
+- [Hackonomics 101: The economics of who pays for a hackathon, and why.](https://medium.com/@alexeymk/hackonomics-101-ad619910b134) 
+- [The Hackathon Budget](https://medium.com/hackers-and-hacking/the-hackathon-budget-d636b5b2ed6c) 
 
 ## Sponsoring a Hackathon
 - [Hackathon Playbook Part 1: How to Sponsor](https://www.lob.com/blog/hackathon-playbook-part1)
@@ -33,6 +37,7 @@ Collection of high quality hackathon resources.
 ## The Hacker Experience
 
 - [The 8 Kinds of Projects You Meet at a Hackathon](http://tessrinearson.com/blog/?p=452)
+- [Dear Corporations, Please Stop Throwing Your Own Hackathons](https://medium.com/@davefontenot/dear-corporations-please-stop-throwing-your-own-hackathons-21a692021b65)
 
 ## Videos
 - [Redesigning the Hackathon Experience for Beginners](https://medium.com/@molllified/redesigning-the-hackathon-experience-for-beginners-5220c508e96f)
