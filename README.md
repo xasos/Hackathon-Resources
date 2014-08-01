@@ -60,4 +60,3 @@ Collection of high quality hackathon resources.
 - [PennApps Logistics & Crisis Management](https://www.youtube.com/watch?v=e_v279zzFhE)
 - [Hackonomics 101](https://www.youtube.com/watch?v=uEfOdvCM2EQ)
 - [PennApps: Getting Newbies Attentive and Productive](https://www.youtube.com/watch?v=BjzP4YvpCKo)
-- 
