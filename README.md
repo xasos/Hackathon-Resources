@@ -38,6 +38,7 @@ Collection of high quality hackathon resources.
 
 - [The 8 Kinds of Projects You Meet at a Hackathon](http://tessrinearson.com/blog/?p=452)
 - [Dear Corporations, Please Stop Throwing Your Own Hackathons](https://medium.com/@davefontenot/dear-corporations-please-stop-throwing-your-own-hackathons-21a692021b65)
+- [Hackathon-ing as a Non-Developer](https://medium.com/@xinisterlayer/hackathon-ing-as-a-non-developer-ec994e50458c)
 
 ## Videos
 - [Redesigning the Hackathon Experience for Beginners](https://medium.com/@molllified/redesigning-the-hackathon-experience-for-beginners-5220c508e96f)
