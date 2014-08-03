@@ -14,6 +14,7 @@ Collection of high quality hackathon resources.
 - [Everyone’s watching hackTECH](https://medium.com/hacktech-2014/everyones-watching-hacktech-5b58c3859747)
 - [Let’s hack the west coast](https://medium.com/@kshithappens/lets-hack-the-west-coast-848210f99df5)
 - [A brief history of hackathons](https://www.youtube.com/watch?v=Zr6VPAe9CKU)
+- [With Hackathons Taking Center Stage, The Coming Transformation Of The Computer Scientist](http://techcrunch.com/2014/02/15/with-hackathons-taking-center-stage-the-coming-transformation-of-the-computer-scientist/)
 
 ## Planning a Hackathon
 
@@ -22,7 +23,7 @@ Collection of high quality hackathon resources.
 - [How to run a hackathon](http://www.recursiverobot.com/post/91272128309/how-to-run-a-hackathon)
 - [Hackathon Fundraising: Getting Started](http://blog.mlh.io/hackathon-fundraising-getting-started-06-16-2014/)
 - [The HackCon Experience](https://medium.com/@taylor_atx/the-hackcon-experience-3866a1bfc907)
-- [The Most Important Part of Your Hackathon? Your Sponsors.](https://medium.com/hackers-and-hacking/your-sponsors-are-the-most-important-part-of-your-hackathon-42f21e0b581a)
+- [Your Sponsors Are the Most Important Part of Your Hackathon](https://medium.com/hackers-and-hacking/your-sponsors-are-the-most-important-part-of-your-hackathon-42f21e0b581a)
 - [What is it like to organize HackMIT?](https://medium.com/@kt_seagull/what-is-it-like-to-organize-hackmit-96467ee9a9b8)
 - [How to Run a Hackathon](http://www.recursiverobot.com/post/91272128309/how-to-run-a-hackathon)
 - [Hosting Hackathons: Getting Awesome Sponsors](http://alexeymk.com/hosting-hackathons/)
@@ -30,6 +31,7 @@ Collection of high quality hackathon resources.
 - [Why hackathons should conclude with a demo](https://medium.com/how-to-throw-a-hackathon/why-hackathons-should-conclude-with-an-expo-635563ceab2f) 
 - [Hackonomics 101: The economics of who pays for a hackathon, and why.](https://medium.com/@alexeymk/hackonomics-101-ad619910b134) 
 - [The Hackathon Budget](https://medium.com/hackers-and-hacking/the-hackathon-budget-d636b5b2ed6c) 
+- [Hackathon Playbook Part 2: How to Organize an Event](https://www.lob.com/blog/hackathon-playbook-part2)
 
 ## Sponsoring a Hackathon
 - [Hackathon Playbook Part 1: How to Sponsor](https://www.lob.com/blog/hackathon-playbook-part1)
