@@ -15,6 +15,7 @@ Collection of high quality hackathon resources.
 - [Let’s hack the west coast](https://medium.com/@kshithappens/lets-hack-the-west-coast-848210f99df5)
 - [A brief history of hackathons](https://www.youtube.com/watch?v=Zr6VPAe9CKU)
 - [With Hackathons Taking Center Stage, The Coming Transformation Of The Computer Scientist](http://techcrunch.com/2014/02/15/with-hackathons-taking-center-stage-the-coming-transformation-of-the-computer-scientist/)
+- [(Almost) everything you need to know about hackathons](http://hackmcgill.com/blog/post/about-hackathons/)
 
 ## Planning a Hackathon
 
@@ -35,6 +36,10 @@ Collection of high quality hackathon resources.
 
 ## Sponsoring a Hackathon
 - [Hackathon Playbook Part 1: How to Sponsor](https://www.lob.com/blog/hackathon-playbook-part1)
+
+## Preparing for a Hackathon
+- [How You Can Prepare for a Hackathon](http://sendgrid.com/blog/prepare-hackathon/)
+- [4 Things You Should Do To Prepare for A Hackathon](http://blog.onemonthrails.com/4-things-you-can-do-to-prepare-for-your-first-hackathon/)
 
 ## The Hacker Experience
 
