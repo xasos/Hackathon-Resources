@@ -50,6 +50,7 @@ Collection of high quality hackathon resources.
 - [Hackathon-ing as a Non-Developer](https://medium.com/@xinisterlayer/hackathon-ing-as-a-non-developer-ec994e50458c)
 - [It’s Not “Too Late” for Female Hackers](https://medium.com/@kt_seagull/its-not-too-late-for-female-hackers-f7efb084e8a)
 - [The Hack Code of Conduct](http://hackcodeofconduct.org/)
+
 ## Videos
 - [Redesigning the Hackathon Experience for Beginners](https://medium.com/@molllified/redesigning-the-hackathon-experience-for-beginners-5220c508e96f)
 - [HackBrown: Getting Newbies Attending and Productive](https://www.youtube.com/watch?v=bGwFmMEMe88)
