@@ -1,7 +1,7 @@
 Hackathon-Resources
 ===================
 
-Collection of high quality hackathon resources.
+Collection of high quality hackathon resources for hackathongoers and hackathon organizers.
 
 ## Hackathon Awareness
 
