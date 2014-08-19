@@ -16,6 +16,8 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [A brief history of hackathons](https://www.youtube.com/watch?v=Zr6VPAe9CKU)
 - [With Hackathons Taking Center Stage, The Coming Transformation Of The Computer Scientist](http://techcrunch.com/2014/02/15/with-hackathons-taking-center-stage-the-coming-transformation-of-the-computer-scientist/)
 - [(Almost) everything you need to know about hackathons](http://hackmcgill.com/blog/post/about-hackathons/)
+- [Why I call myself a hacker](https://medium.com/hackers-and-hacking/why-i-call-myself-a-hacker-2b9381606a5e)
+- [A Hacking Hiatus](https://medium.com/hackers-and-hacking/a-hacking-hiatus-4844ae073d4)
 
 ## Planning a Hackathon
 
