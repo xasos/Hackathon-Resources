@@ -55,6 +55,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [It’s Not “Too Late” for Female Hackers](https://medium.com/@kt_seagull/its-not-too-late-for-female-hackers-f7efb084e8a)
 - [The Hack Code of Conduct](http://hackcodeofconduct.org/)
 - [Redesigning the Hackathon Experience for Beginners (Extended)](https://medium.com/@molllified/redesigning-the-hackathon-experience-for-beginners-5220c508e96f)
+- [How To Present A Successful Hackathon Demo](http://techcrunch.com/2014/09/01/how-to-crush-your-hackathon-demo/)
 
 ## Videos
 - [Redesigning the Hackathon Experience for Beginners](https://medium.com/@molllified/redesigning-the-hackathon-experience-for-beginners-5220c508e96f)
