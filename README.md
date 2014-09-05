@@ -38,6 +38,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [The Hackathon Budget](https://medium.com/hackers-and-hacking/the-hackathon-budget-d636b5b2ed6c) 
 - [Hackathon Playbook Part 2: How to Organize an Event](https://www.lob.com/blog/hackathon-playbook-part2)
 - [The Hack Day Manifesto](http://hackdaymanifesto.com/)
+- [Hackathon Fundraising](http://www.varadhja.in/life/hackathon-fundraising)
 
 ## Sponsoring a Hackathon
 - [Hackathon Playbook Part 1: How to Sponsor](https://www.lob.com/blog/hackathon-playbook-part1)
