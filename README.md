@@ -21,6 +21,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [Love in the time of mega-hackathons](https://medium.com/pennapps-spring-2014/love-in-the-time-of-mega-hackathons-67b0de98f650)
 - [My hackathon journey](https://medium.com/@rmorenocesar/my-hackathon-journey-92bc21b209b0)
 - [Hackathons are for Hacking](https://medium.com/@superandomness/hackathons-are-for-hacking-2bba198ffebd)
+- [The New Hackers](https://medium.com/@_simplyluke/the-new-hackers-aaed92e78cc0)
 
 ## Planning a Hackathon
 
