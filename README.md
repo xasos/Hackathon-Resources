@@ -22,6 +22,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [My hackathon journey](https://medium.com/@rmorenocesar/my-hackathon-journey-92bc21b209b0)
 - [Hackathons are for Hacking](https://medium.com/@superandomness/hackathons-are-for-hacking-2bba198ffebd)
 - [The New Hackers](https://medium.com/@_simplyluke/the-new-hackers-aaed92e78cc0)
+- [How we built HackBU at Binghamton University](https://medium.com/@danoc/how-we-built-hackbu-at-binghamton-university-9a637371a476)
 
 ## Planning a Hackathon
 
