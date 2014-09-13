@@ -42,6 +42,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [Hackathon Playbook Part 2: How to Organize an Event](https://www.lob.com/blog/hackathon-playbook-part2)
 - [The Hack Day Manifesto](http://hackdaymanifesto.com/)
 - [Hackathon Fundraising](http://www.varadhja.in/life/hackathon-fundraising)
+- [Wi-Fi that Works.](https://medium.com/mhacks-iv/wi-fi-that-works-9afe3dec3d93)
 
 ## Sponsoring a Hackathon
 - [Hackathon Playbook Part 1: How to Sponsor](https://www.lob.com/blog/hackathon-playbook-part1)
