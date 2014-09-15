@@ -19,12 +19,13 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [Why I call myself a hacker](https://medium.com/hackers-and-hacking/why-i-call-myself-a-hacker-2b9381606a5e)
 - [A Hacking Hiatus](https://medium.com/hackers-and-hacking/a-hacking-hiatus-4844ae073d4)
 - [Love in the time of mega-hackathons](https://medium.com/pennapps-spring-2014/love-in-the-time-of-mega-hackathons-67b0de98f650)
-- [My hackathon journey](https://medium.com/@rmorenocesar/my-hackathon-journey-92bc21b209b0)
 - [Hackathons are for Hacking](https://medium.com/@superandomness/hackathons-are-for-hacking-2bba198ffebd)
 - [The New Hackers](https://medium.com/@_simplyluke/the-new-hackers-aaed92e78cc0)
-- [How we built HackBU at Binghamton University](https://medium.com/@danoc/how-we-built-hackbu-at-binghamton-university-9a637371a476)
-- [MHacks IV, my first Hackathon: I wouldn't trade it for anything](https://medium.com/mhacks-iv/mhacks-iv-my-first-hackathon-i-wouldnt-trade-it-for-anything-f994c8ed3504)
 - [What makes CodeDay so great?](https://studentrnd.org/build/what-makes-codeday-so-great)
+
+## Hackathon Stories
+- [My hackathon journey](https://medium.com/@rmorenocesar/my-hackathon-journey-92bc21b209b0)
+- [MHacks IV, my first Hackathon: I wouldn't trade it for anything](https://medium.com/mhacks-iv/mhacks-iv-my-first-hackathon-i-wouldnt-trade-it-for-anything-f994c8ed3504)
 
 ## Planning a Hackathon
 
@@ -43,6 +44,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [The Hackathon Budget](https://medium.com/hackers-and-hacking/the-hackathon-budget-d636b5b2ed6c) 
 - [Hackathon Playbook Part 2: How to Organize an Event](https://www.lob.com/blog/hackathon-playbook-part2)
 - [The Hack Day Manifesto](http://hackdaymanifesto.com/)
+- [How we built HackBU at Binghamton University](https://medium.com/@danoc/how-we-built-hackbu-at-binghamton-university-9a637371a476)
 - [Hackathon Fundraising](http://www.varadhja.in/life/hackathon-fundraising)
 - [Wi-Fi that Works.](https://medium.com/mhacks-iv/wi-fi-that-works-9afe3dec3d93)
 
