@@ -65,6 +65,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [The Hack Code of Conduct](http://hackcodeofconduct.org/)
 - [Redesigning the Hackathon Experience for Beginners (Extended)](https://medium.com/@molllified/redesigning-the-hackathon-experience-for-beginners-5220c508e96f)
 - [How To Present A Successful Hackathon Demo](http://techcrunch.com/2014/09/01/how-to-crush-your-hackathon-demo/)
+- [VTHackers — Building a Community in the Middle of Nowhere](https://medium.com/@benjdj6/vthackers-building-a-community-in-the-middle-of-nowhere-b0a11d723a3b)
 
 ## Videos
 - [Redesigning the Hackathon Experience for Beginners](https://medium.com/@molllified/redesigning-the-hackathon-experience-for-beginners-5220c508e96f)
