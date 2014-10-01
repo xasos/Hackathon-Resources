@@ -22,12 +22,12 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [Hackathons are for Hacking](https://medium.com/@superandomness/hackathons-are-for-hacking-2bba198ffebd)
 - [The New Hackers](https://medium.com/@_simplyluke/the-new-hackers-aaed92e78cc0)
 - [What makes CodeDay so great?](https://studentrnd.org/build/what-makes-codeday-so-great)
+- [Hackathons: The Golden Value Prop](https://medium.com/hackathons-anonymous/hackathons-the-golden-value-prop-f9064b47132e)
 
 ## Hackathon Stories
 - [My hackathon journey](https://medium.com/@rmorenocesar/my-hackathon-journey-92bc21b209b0)
 - [MHacks IV, my first Hackathon: I wouldn't trade it for anything](https://medium.com/mhacks-iv/mhacks-iv-my-first-hackathon-i-wouldnt-trade-it-for-anything-f994c8ed3504)
 - [I Survived MHacks](https://medium.com/mhacks-iv/i-survived-mhacks-e0a6e5f7d24b)
-- [Hackathons: The Golden Value Prop](https://medium.com/hackathons-anonymous/hackathons-the-golden-value-prop-f9064b47132e)
 
 ## Planning a Hackathon
 
