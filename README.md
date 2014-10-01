@@ -25,6 +25,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [Hackathons: The Golden Value Prop](https://medium.com/hackathons-anonymous/hackathons-the-golden-value-prop-f9064b47132e)
 
 ## Hackathon Stories
+
 - [My hackathon journey](https://medium.com/@rmorenocesar/my-hackathon-journey-92bc21b209b0)
 - [MHacks IV, my first Hackathon: I wouldn't trade it for anything](https://medium.com/mhacks-iv/mhacks-iv-my-first-hackathon-i-wouldnt-trade-it-for-anything-f994c8ed3504)
 - [I Survived MHacks](https://medium.com/mhacks-iv/i-survived-mhacks-e0a6e5f7d24b)
@@ -52,9 +53,11 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [The Hackathon Boilerplate](https://medium.com/@jhilmd/the-hackathon-boilerplate-91eae05e3756)
 
 ## Sponsoring a Hackathon
+
 - [Hackathon Playbook Part 1: How to Sponsor](https://www.lob.com/blog/hackathon-playbook-part1)
 
 ## Preparing for a Hackathon
+
 - [How You Can Prepare for a Hackathon](http://sendgrid.com/blog/prepare-hackathon/)
 - [4 Things You Should Do To Prepare for A Hackathon](http://blog.onemonthrails.com/4-things-you-can-do-to-prepare-for-your-first-hackathon/)
 - [Hack the Travel](https://medium.com/@danstepanov/crowd-sourced-hackathon-travel-de6fdf1c7aaa)
@@ -70,8 +73,10 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [How To Present A Successful Hackathon Demo](http://techcrunch.com/2014/09/01/how-to-crush-your-hackathon-demo/)
 - [VTHackers — Building a Community in the Middle of Nowhere](https://medium.com/@benjdj6/vthackers-building-a-community-in-the-middle-of-nowhere-b0a11d723a3b)
 - [The Birth of the Cortex](https://medium.com/mhacks-iv/the-birth-of-the-cortex-efe64d0b5913)
+- [Why hackathons should conclude with an Expo](https://medium.com/how-to-throw-a-hackathon/why-hackathons-should-conclude-with-an-expo-635563ceab2f)
 
 ## Videos
+
 - [Redesigning the Hackathon Experience for Beginners](https://medium.com/@molllified/redesigning-the-hackathon-experience-for-beginners-5220c508e96f)
 - [HackBrown: Getting Newbies Attending and Productive](https://www.youtube.com/watch?v=bGwFmMEMe88)
 - [Bitcamp: Getting the University to Help Fundraise](https://www.youtube.com/watch?v=RWWM7SABUzI)
