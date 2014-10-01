@@ -49,6 +49,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [How we built HackBU at Binghamton University](https://medium.com/@danoc/how-we-built-hackbu-at-binghamton-university-9a637371a476)
 - [Hackathon Fundraising](http://www.varadhja.in/life/hackathon-fundraising)
 - [Wi-Fi that Works.](https://medium.com/mhacks-iv/wi-fi-that-works-9afe3dec3d93)
+- [The Hackathon Boilerplate](https://medium.com/@jhilmd/the-hackathon-boilerplate-91eae05e3756)
 
 ## Sponsoring a Hackathon
 - [Hackathon Playbook Part 1: How to Sponsor](https://www.lob.com/blog/hackathon-playbook-part1)
