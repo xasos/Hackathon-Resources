@@ -27,6 +27,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [My hackathon journey](https://medium.com/@rmorenocesar/my-hackathon-journey-92bc21b209b0)
 - [MHacks IV, my first Hackathon: I wouldn't trade it for anything](https://medium.com/mhacks-iv/mhacks-iv-my-first-hackathon-i-wouldnt-trade-it-for-anything-f994c8ed3504)
 - [I Survived MHacks](https://medium.com/mhacks-iv/i-survived-mhacks-e0a6e5f7d24b)
+- [Hackathons: The Golden Value Prop](https://medium.com/hackathons-anonymous/hackathons-the-golden-value-prop-f9064b47132e)
 
 ## Planning a Hackathon
 
