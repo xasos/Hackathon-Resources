@@ -23,6 +23,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [The New Hackers](https://medium.com/@_simplyluke/the-new-hackers-aaed92e78cc0)
 - [What makes CodeDay so great?](https://studentrnd.org/build/what-makes-codeday-so-great)
 - [Hackathons: The Golden Value Prop](https://medium.com/hackathons-anonymous/hackathons-the-golden-value-prop-f9064b47132e)
+- [Hackathons aren’t about the hacks.](https://medium.com/hackathon-hackers/hackathons-arent-about-the-hacks-a2d84bf60a47)
 
 ## Hackathon Stories
 
