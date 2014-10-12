@@ -52,6 +52,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [Hackathon Fundraising](http://www.varadhja.in/life/hackathon-fundraising)
 - [Wi-Fi that Works.](https://medium.com/mhacks-iv/wi-fi-that-works-9afe3dec3d93)
 - [The Hackathon Boilerplate](https://medium.com/@jhilmd/the-hackathon-boilerplate-91eae05e3756)
+- [How to Make Your Hackathon Last](https://medium.com/mhacks-iv/how-to-make-your-hackathon-last-2cc663cb649a)
 
 ## Sponsoring a Hackathon
 
