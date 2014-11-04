@@ -53,6 +53,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [Wi-Fi that Works.](https://medium.com/mhacks-iv/wi-fi-that-works-9afe3dec3d93)
 - [The Hackathon Boilerplate](https://medium.com/@jhilmd/the-hackathon-boilerplate-91eae05e3756)
 - [How to Make Your Hackathon Last](https://medium.com/mhacks-iv/how-to-make-your-hackathon-last-2cc663cb649a)
+- [MHacks: From Dream to Reality](https://medium.com/hackathon-hackers/mhacks-from-dream-to-reality-32e2e55e8136)
 
 ## Sponsoring a Hackathon
 
