@@ -58,6 +58,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 ## Sponsoring a Hackathon
 
 - [Hackathon Playbook Part 1: How to Sponsor](https://www.lob.com/blog/hackathon-playbook-part1)
+- [Realizing Rewards from your Hackathon Sponsorship](http://alexeymk.com/61608156/index.html)
 
 ## Preparing for a Hackathon
 
