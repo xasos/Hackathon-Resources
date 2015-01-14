@@ -25,6 +25,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [Hackathons: The Golden Value Prop](https://medium.com/hackathons-anonymous/hackathons-the-golden-value-prop-f9064b47132e)
 - [Hackathons aren’t about the hacks.](https://medium.com/hackathon-hackers/hackathons-arent-about-the-hacks-a2d84bf60a47)
 
+
 ## Hackathon Stories
 
 - [My hackathon journey](https://medium.com/@rmorenocesar/my-hackathon-journey-92bc21b209b0)
@@ -37,6 +38,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [How to throw an Epic Hackathon](http://blog.mlh.io/how-to-throw-an-epic-hackathon-07-07-2014/)
 - [How to run a hackathon](http://www.recursiverobot.com/post/91272128309/how-to-run-a-hackathon)
 - [Hackathon Fundraising: Getting Started](http://blog.mlh.io/hackathon-fundraising-getting-started-06-16-2014/)
+- [Hackathon Sponsorship Questions Answered](http://news.mlh.io/find-sponsors-questions-sponsorship-workshop-12-30-2014)
 - [The HackCon Experience](https://medium.com/@taylor_atx/the-hackcon-experience-3866a1bfc907)
 - [Your Sponsors Are the Most Important Part of Your Hackathon](https://medium.com/hackers-and-hacking/your-sponsors-are-the-most-important-part-of-your-hackathon-42f21e0b581a)
 - [What is it like to organize HackMIT?](https://medium.com/@kt_seagull/what-is-it-like-to-organize-hackmit-96467ee9a9b8)
@@ -54,6 +56,8 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [The Hackathon Boilerplate](https://medium.com/@jhilmd/the-hackathon-boilerplate-91eae05e3756)
 - [How to Make Your Hackathon Last](https://medium.com/mhacks-iv/how-to-make-your-hackathon-last-2cc663cb649a)
 - [MHacks: From Dream to Reality](https://medium.com/hackathon-hackers/mhacks-from-dream-to-reality-32e2e55e8136)
+- [How to Judge a Hackathon](http://news.mlh.io/how-to-judge-a-hackathon-finding-the-chosen-one-05-15-2014)
+- [Hackathon Prizes](http://news.mlh.io/are-hackathon-prizes-the-worst-thing-since-moldy-sliced-bread-04-18-2014)
 
 ## Sponsoring a Hackathon
 
@@ -78,6 +82,8 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [VTHackers — Building a Community in the Middle of Nowhere](https://medium.com/@benjdj6/vthackers-building-a-community-in-the-middle-of-nowhere-b0a11d723a3b)
 - [The Birth of the Cortex](https://medium.com/mhacks-iv/the-birth-of-the-cortex-efe64d0b5913)
 - [Why hackathons should conclude with an Expo](https://medium.com/how-to-throw-a-hackathon/why-hackathons-should-conclude-with-an-expo-635563ceab2f)
+- [Your First Hackathon](http://news.mlh.io/your-first-hackathon-10-07-2013)
+- [The Top 10 Ways to Ruin Your Hack](http://news.mlh.io/top-10-ways-ruin-hack-11-05-2014)
 
 ## Videos
 
@@ -101,3 +107,5 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [PennApps Logistics & Crisis Management](https://www.youtube.com/watch?v=e_v279zzFhE)
 - [Hackonomics 101](https://www.youtube.com/watch?v=uEfOdvCM2EQ)
 - [PennApps: Getting Newbies Attentive and Productive](https://www.youtube.com/watch?v=BjzP4YvpCKo)
+- [Hackathon Transportation 101](https://www.youtube.com/watch?v=wGKX_koCPIk)
+- [Hackathon Sponsorship Workshop](https://www.youtube.com/watch?v=QI9NVe2wA5w)
