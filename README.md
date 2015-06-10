@@ -58,6 +58,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [MHacks: From Dream to Reality](https://medium.com/hackathon-hackers/mhacks-from-dream-to-reality-32e2e55e8136)
 - [How to Judge a Hackathon](http://news.mlh.io/how-to-judge-a-hackathon-finding-the-chosen-one-05-15-2014)
 - [Hackathon Prizes](http://news.mlh.io/are-hackathon-prizes-the-worst-thing-since-moldy-sliced-bread-04-18-2014)
+- [MLH Hackathon Organizer's Guide](http://guide.mlh.io)
 
 ## Sponsoring a Hackathon
 
