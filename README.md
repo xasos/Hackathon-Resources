@@ -88,7 +88,8 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 
 ## Videos
 
-- [Redesigning the Hackathon Experience for Beginners](https://medium.com/@molllified/redesigning-the-hackathon-experience-for-beginners-5220c508e96f)
+- [Hackathon Transportation 101](https://www.youtube.com/watch?v=wGKX_koCPIk)
+- [Hackathon Sponsorship Workshop](https://www.youtube.com/watch?v=QI9NVe2wA5w)
 - [Hackcon I - HackBrown: Getting Newbies Attending and Productive](https://www.youtube.com/watch?v=bGwFmMEMe88)
 - [Hackcon I - Bitcamp: Getting the University to Help Fundraise](https://www.youtube.com/watch?v=RWWM7SABUzI)
 - [Hackcon I - Securing Awesome Judges for your Hackathon](https://www.youtube.com/watch?v=NGg_ItIKL68)
@@ -108,8 +109,6 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [Hackcon I - PennApps Logistics & Crisis Management](https://www.youtube.com/watch?v=e_v279zzFhE)
 - [Hackcon I - Hackonomics 101](https://www.youtube.com/watch?v=uEfOdvCM2EQ)
 - [Hackcon I - PennApps: Getting Newbies Attentive and Productive](https://www.youtube.com/watch?v=BjzP4YvpCKo)
-- [Hackathon Transportation 101](https://www.youtube.com/watch?v=wGKX_koCPIk)
-- [Hackathon Sponsorship Workshop](https://www.youtube.com/watch?v=QI9NVe2wA5w)
 - [Hackcon II - The State of the League 2015](https://youtube.com/watch?v=-I7Uu3OBg9Y&index=1&list=PLPDgudJ_VDUfQcMWbEgEsJS270FvfNGFG)
 - [Hackcon II - Hackathons are for Hacking](https://youtube.com/watch?v=vHEBrFdAJvk&index=2&list=PLPDgudJ_VDUfQcMWbEgEsJS270FvfNGFG)
 - [Hackcon II - Hacking for Good](https://youtube.com/watch?v=L9zzTrs2zzI&index=3&list=PLPDgudJ_VDUfQcMWbEgEsJS270FvfNGFG)
