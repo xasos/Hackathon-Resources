@@ -59,6 +59,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [How to Judge a Hackathon](http://news.mlh.io/how-to-judge-a-hackathon-finding-the-chosen-one-05-15-2014)
 - [Hackathon Prizes](http://news.mlh.io/are-hackathon-prizes-the-worst-thing-since-moldy-sliced-bread-04-18-2014)
 - [MLH Hackathon Organizer's Guide](http://guide.mlh.io)
+- [The Sponsorship Playbook](https://medium.com/@shrav/the-sponsorship-playbook-f1f9a0b81022)
 
 ## Sponsoring a Hackathon
 
