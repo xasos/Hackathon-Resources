@@ -73,6 +73,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [How You Can Prepare for a Hackathon](http://sendgrid.com/blog/prepare-hackathon/)
 - [4 Things You Should Do To Prepare for A Hackathon](http://blog.onemonthrails.com/4-things-you-can-do-to-prepare-for-your-first-hackathon/)
 - [Hack the Travel](https://medium.com/@danstepanov/crowd-sourced-hackathon-travel-de6fdf1c7aaa)
+- [Hackathon Guide](https://hackathon.guide/)
 
 ## The Hacker Experience
 
