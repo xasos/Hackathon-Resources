@@ -21,7 +21,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [Love in the time of mega-hackathons](https://medium.com/pennapps-spring-2014/love-in-the-time-of-mega-hackathons-67b0de98f650)
 - [Hackathons are for Hacking](https://medium.com/@superandomness/hackathons-are-for-hacking-2bba198ffebd)
 - [The New Hackers](https://medium.com/@_simplyluke/the-new-hackers-aaed92e78cc0)
-- [What makes CodeDay so great?](https://studentrnd.org/build/what-makes-codeday-so-great)
+- [Why Does CodeDay Work?](https://blog.srnd.org/why-does-codeday-work-2263f43f6f47)
 - [Hackathons: The Golden Value Prop](https://medium.com/hackathons-anonymous/hackathons-the-golden-value-prop-f9064b47132e)
 - [Hackathons aren’t about the hacks.](https://medium.com/hackathon-hackers/hackathons-arent-about-the-hacks-a2d84bf60a47)
 - [Back to the Hacks](https://medium.com/cal-hacks/back-to-the-hacks-de90beca3c8a)
