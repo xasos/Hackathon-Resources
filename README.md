@@ -132,3 +132,9 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [Hackcon II - Inbox Management](https://youtube.com/watch?v=QOuWFROzvJU&index=18&list=PLPDgudJ_VDUfQcMWbEgEsJS270FvfNGFG)
 - [Hackcon II - Open Hackathon Data](https://youtube.com/watch?v=Qc_-0mGcVXg&index=19&list=PLPDgudJ_VDUfQcMWbEgEsJS270FvfNGFG)
 - [Hackcon II - Closing Address](https://youtube.com/watch?v=7QeHUkOHtvQ&index=20&list=PLPDgudJ_VDUfQcMWbEgEsJS270FvfNGFG)
+
+### Hackathon starter in various languages
+
+- [Node.js](https://github.com/sahat/hackathon-starter)
+- [Python](https://github.com/DrkSephy/django-hackathon-starter)
+- [PHP](https://github.com/unicodeveloper/laravel-hackathon-starter)
