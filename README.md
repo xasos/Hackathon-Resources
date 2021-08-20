@@ -88,6 +88,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [Why hackathons should conclude with an Expo](https://medium.com/how-to-throw-a-hackathon/why-hackathons-should-conclude-with-an-expo-635563ceab2f)
 - [Your First Hackathon](http://news.mlh.io/your-first-hackathon-10-07-2013)
 - [The Top 10 Ways to Ruin Your Hack](http://news.mlh.io/top-10-ways-ruin-hack-11-05-2014)
+- [How DoorDash Leverages Hackathons to Drive Innovation](https://doordash.engineering/2021/05/14/how-doordash-leverages-hackathons-to-drive-innovation/)
 
 ## Videos
 
